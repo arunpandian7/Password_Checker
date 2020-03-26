@@ -1,4 +1,4 @@
 # Installation commands for dependencies
 
-Pillow==2.2.1
+Pillow==6.2.0
 imageio

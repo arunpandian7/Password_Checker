@@ -32,7 +32,7 @@ python paswd_cracker_gui.py
 ```
 * Now you can play around with the application
 
-## Screenshoots
+## Screenshots
 
 ![Screenshot of application](https://github.com/ArunRK7Codie/Password_Checker/blob/master/screenshot_01.png)
 

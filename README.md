@@ -24,7 +24,7 @@ cd Password_Checker
 ```
 * Run the *requirement.txt* to install the dependencies
 ```
-python -r requirements.txt
+pip install -r requirements.txt
 ```
 * Run the *paswd_cracker_gui.py* to start the application
 ```
